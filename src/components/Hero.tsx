@@ -47,14 +47,14 @@ const Hero = () => {
           <div className="max-w-2xl">
             <div className="space-y-6">
               <span className="inline-block px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-sm font-medium">
-                Data Science & Analytics Education
+                Artificial Intelligence, Data Science & Analytics Education
               </span>
               
               <h1 
                 ref={headingRef}
                 className="heading text-4xl sm:text-5xl md:text-6xl opacity-0"
               >
-                Discover Data Analysis From Beginner to Advanced
+                Break Into a Career in AI and Data Science through the Lagos Tech School.
               </h1>
               
               <p 
@@ -69,7 +69,7 @@ const Hero = () => {
                 href="#courses" 
                 className="inline-flex items-center px-6 py-3 bg-primary text-white rounded-full font-medium hover:bg-primary/90 transition-colors duration-200 opacity-0 group"
               >
-                Explore Courses
+                Explore Our Courses
                 <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform duration-200" />
               </a>
             </div>
